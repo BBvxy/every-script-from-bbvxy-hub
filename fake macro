@@ -25,7 +25,7 @@ end
 onSelected(game.Players.LocalPlayer:GetMouse())
 game.StarterGui:SetCore("SendNotification",{
 			Title = "Speed Enabled";
-			Text = "Fake macro by BBvxy";
+			Text = "Elegant fake macro";
 			Duration = 1;
 		})
   	end    
