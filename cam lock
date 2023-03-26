@@ -106,7 +106,7 @@ local PredictionValue = 0.1259910
                 if Settings.rewrittenmain.NOTIF == true then
                     Plr = getClosestPlayerToCursor()
                 game.StarterGui:SetCore("SendNotification", {
-						Title = "BBvxy camlock",
+						Title = "Elegant camlock",
 						Text = "Unlocked",
 						Icon = "",
 						Duration = 1,
@@ -118,7 +118,7 @@ local PredictionValue = 0.1259910
                 if Settings.rewrittenmain.NOTIF == true then
  
                     game.StarterGui:SetCore("SendNotification", {
-						Title = "BBvxy camlock",
+						Title = "Elegant camlock",
 						Text = "Locked On :"..tostring(Plr.Name); 
 						Icon = "",
 						Duration = 1,
